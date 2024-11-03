@@ -55,6 +55,8 @@ Belarusian National Technical University, Minsk
 - **Programming Languages:** Java, Kotlin, JavaScript, C
 - **Frameworks:** Spring Boot, Android SDK, React-native, Django
 - **Web Development:** HTML, CSS, RESTful APIs
-- **Embedded Systems:** C, CMake, embedded protocols
+- **Embedded Systems:** C, embedded protocols
 - **Version Control:** Git
+- **Build tools:** Maven, Gradle, CMake 
+- **CI/CD:** Jenkins
 - **Databases:** MySQL, MongoDB, PostgreSQL
