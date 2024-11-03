@@ -2,6 +2,7 @@
 
 📞 +375 29 845 6636  
 ✉️ juliakrivonos22@gmail.com  
+Discord: Julia Krivonos (@NoraCore)
 
 ---
 
