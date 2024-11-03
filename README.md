@@ -1,1 +1,1 @@
-https://NoraCore.github.io/rsschool-cv/cv
+https://NoraCore.github.io/rsschool-cv/
